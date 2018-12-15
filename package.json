@@ -1,0 +1,19 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathi081289/myfirstapp.git"
+  },
+  "author": "“Sathishkanna\nnpm set init.author.email “magic.mike@gmail.com”\nnpm set init.author.name “Sathishkanna <“sathishkumar@siamcomputing.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathi081289/myfirstapp/issues"
+  },
+  "homepage": "https://github.com/sathi081289/myfirstapp#readme"
+}
