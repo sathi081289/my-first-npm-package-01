@@ -1,5 +1,5 @@
 {
-  "name": "myfirstapp",
+  "name": "my-first-npm-package-01",
   "version": "1.0.0",
   "description": "My First App",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathi081289/myfirstapp.git"
+    "url": "git+https://github.com/sathi081289/my-first-npm-package-01.git"
   },
-  "author": "“Sathishkanna\nnpm set init.author.email “magic.mike@gmail.com”\nnpm set init.author.name “Sathishkanna <“sathishkumar@siamcomputing.com”>",
+  "author": "“Sathishkanna\nnpm set init.author.email “sathishkumar@siamcomputing.com”\nnpm set init.author.name “Sathishkanna <“sathishkumar@siamcomputing.com”>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sathi081289/myfirstapp/issues"
+    "url": "https://github.com/sathi081289/my-first-npm-package-01/issues"
   },
-  "homepage": "https://github.com/sathi081289/myfirstapp#readme"
+  "homepage": "https://github.com/sathi081289/my-first-npm-package-01#readme"
 }
