@@ -1,7 +1,7 @@
 {
   "name": "myfirstapp",
   "version": "1.0.0",
-  "description": "my first app",
+  "description": "My First App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
